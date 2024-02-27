@@ -10,6 +10,8 @@ CTRL+SHIFT+P -> Install Extension from Location -> Select Folder that it's conta
 
 When you are inside an editor, right click and press "Add comment" in the context menu. Enter a label for the comment and press Enter.
 
+# Links
+
 Follow me on Twitter/X at [@tehseowner](https://twitter.com/tehseowner)
 
 Check out my other plugins on [OCScripts.com](https://www.ocscripts.com/)
